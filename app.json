@@ -11,7 +11,7 @@
         "SITE_URL": {
             "description": "网站 URL, 比如 https://example.com, 这个地址会在程序中的某些地方使用，如果不设置这个字段，一些功能可能无法正常工作",
             "required": false,
-            "value": "https://alistonb4a-awp9zfvu.b4a.run"
+            "value": "https://alistonb4a-2wgm6i8m.b4a.run"
         },
         "TZ": {
             "description": "时区",
